@@ -11,7 +11,7 @@ public class User {
 
     // post a question
     public Question postQuestion (String title, String content) {
-        return new Question(title, content);
+        return new Question(title, content,this);
     }
 
     // post an answer
@@ -22,4 +22,9 @@ public class User {
     }
 
     // upvote or downvote
+    public Vote selectVote (Question question, String type) {
+        question.getVote().setVoteValue(type);
+        return question.getVote();
+    }
+
 }

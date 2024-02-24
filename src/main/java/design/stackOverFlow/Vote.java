@@ -1,13 +1,18 @@
 package design.stackOverFlow;
 
 public class Vote {
+
+    static final String UPVOTE = "UP";
+    static final String DOWNVOTE = "DOWN";
+
     private int value = 0 ;
 
-    public void upVote() {
-        this.value++;
-    }
-
-    public void downVote() {
-        this.value--;
+    public void setVoteValue (String type) {
+        if (type.equalsIgnoreCase(UPVOTE)) {
+            value++;
+        }
+        if (type.equalsIgnoreCase(DOWNVOTE)) {
+            value--;
+        }
     }
 }
