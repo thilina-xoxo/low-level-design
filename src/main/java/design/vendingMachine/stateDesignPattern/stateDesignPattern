@@ -1,0 +1,1 @@
+Our context is going to delegate the behavior to the state implementation. In other words, all incoming requests will be handled by the concrete implementation of the state.
