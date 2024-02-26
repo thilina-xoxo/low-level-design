@@ -1,4 +1,4 @@
-package design.vendingMachine.stateDesignPattern;
+package design.VendingMachine.stateDesignPattern;
 
 public class OrderedState implements PackageState {
     @Override

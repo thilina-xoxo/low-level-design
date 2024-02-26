@@ -1,4 +1,4 @@
-package design.vendingMachine.stateDesignPattern;
+package design.VendingMachine.stateDesignPattern;
 
 public class ReceivedState implements PackageState{
     @Override
@@ -9,5 +9,9 @@ public class ReceivedState implements PackageState{
     @Override
     public void prev(Package pkg) {
         pkg.setState(new DeliveredState());
+    }
+    @Override
+    public void printStatus() {
+        System.out.println("Package was received by client.");
     }
 }

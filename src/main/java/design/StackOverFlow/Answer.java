@@ -1,4 +1,4 @@
-package design.stackOverFlow;
+package design.StackOverFlow;
 
 public class Answer {
     public String answer;

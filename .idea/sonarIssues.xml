@@ -8,7 +8,82 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/com/thilina/sigeleton/IvoryTower.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/LoggingFrameWork/ConsoleLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/LoggingFrameWork/FileLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/LoggingFrameWork/LogDestination.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/LoggingFrameWork/LogLevel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/LoggingFrameWork/Logger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/State.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/VendingMachine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/stateDesignPattern/DeliveredState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/stateDesignPattern/OrderedState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/stateDesignPattern/Package.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/stateDesignPattern/PackageState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/stateDesignPattern/ReceivedState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/VendingMachine/stateDesignPattern/StateDemo.java">
           <value>
             <set />
           </value>
@@ -38,6 +113,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/State.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/VendingMachine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/machineState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/stateDesignPattern/DeliveredState.java">
           <value>
             <set />
@@ -59,6 +149,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/stateDesignPattern/ReceivedState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/stateDesignPattern/StateDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/stateDesignPattern/VendingMachine.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/design/vendingMachine/stateDesignPattern/machineState.java">
           <value>
             <set />
           </value>

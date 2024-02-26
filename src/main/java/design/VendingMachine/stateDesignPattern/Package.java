@@ -1,4 +1,4 @@
-package design.vendingMachine.stateDesignPattern;
+package design.VendingMachine.stateDesignPattern;
 
 public class Package {
 
@@ -16,5 +16,9 @@ public class Package {
 
     public void printStatus() {
         state.printStatus();
+    }
+
+    public void setState(PackageState state) {
+        this.state = state;
     }
 }
